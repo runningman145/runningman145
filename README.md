@@ -2,7 +2,7 @@
 - 🎓 Computer Science student at Mbarara University of Science and Technology.
  
 - 👀 I’m interested in AI, Machine Learning, Cybersecurity
-- 🌱 I’m currently learning C, Python, Javascript, HTML...
+- 🌱 I’m currently learning C, Python, Javascript, HTML... through CS50's introduction to computer science
 - 🏀 I play basketball
  
 
